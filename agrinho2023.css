@@ -68,6 +68,25 @@ left: 0px;
 
 background: linear-gradient(180deg, #012379 0%, rgba(81, 157, 228, 0.88) 51.3%, #3FEA03 100%);
 }
+.corpo-inscricao{
+    
+position: absolute;
+width: 201px;
+height: 70px;
+left: calc(50% - 201px/2 + 386.5px);
+top: 294px;
+
+font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 70px;
+/* identical to box height */
+
+text-transform: capitalize;
+
+color: #FFE700;
+}
 .corpo-imagem1{
    
 position: absolute;
